@@ -25,4 +25,5 @@ Looks the same as the server
 - [ ] Connect to Server by Http Restful API
 - [ ] Config (file) Edit
 - [ ] Process Control
+- [ ] Log file Upload Realtime
 - [ ] WebSocket Connection
